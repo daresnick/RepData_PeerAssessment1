@@ -1,4 +1,4 @@
-# Reproducible Research: Peer Assessment 1
+# Reproducible Research: Course Project 1
 Damon Resnick  
 January 1, 2017  
 <br>  
